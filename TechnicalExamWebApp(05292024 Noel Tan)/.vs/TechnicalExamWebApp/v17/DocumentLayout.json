@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Development\\TechnicalExamWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|e:\\development\\technicalexamwebapp\\technicalexamwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:technicalexamwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:TechnicalExamWebApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\technicalexamwebapp\\scripts\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:technicalexamwebapp\\scripts\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Models\\DBExam.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:TechnicalExamWebApp\\Models\\DBExam.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA660DBE-0641-4211-AAC2-03681AC1F9A5}|TechnicalExamWebApp\\TechnicalExamWebApp.csproj|solutionrelative:TechnicalExamWebApp\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportExcel.cshtml",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml",
+              "RelativeToolTip": "TechnicalExamWebApp\\Views\\Home\\ImportExcel.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:32:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TechnicalExamWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:56:46.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechnicalExamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:56:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TechnicalExamWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:44:40.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TechnicalExamWebApp\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:43:09.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datatables.js",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Scripts\\datatables.js",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Scripts\\datatables.js",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Scripts\\datatables.js",
+              "RelativeToolTip": "TechnicalExamWebApp\\Scripts\\datatables.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T18:59:48.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBExam.Context.cs",
+              "DocumentMoniker": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Models\\DBExam.Context.cs",
+              "RelativeDocumentMoniker": "TechnicalExamWebApp\\Models\\DBExam.Context.cs",
+              "ToolTip": "E:\\Development\\TechnicalExamWebApp\\TechnicalExamWebApp\\Models\\DBExam.Context.cs",
+              "RelativeToolTip": "TechnicalExamWebApp\\Models\\DBExam.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:45:41.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

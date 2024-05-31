@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TechnicalExamWebApp",
+    "\\TechnicalExamWebApp\\Controllers",
+    "\\TechnicalExamWebApp\\Models",
+    "\\TechnicalExamWebApp\\Views",
+    "\\TechnicalExamWebApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\TechnicalExamWebApp\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
