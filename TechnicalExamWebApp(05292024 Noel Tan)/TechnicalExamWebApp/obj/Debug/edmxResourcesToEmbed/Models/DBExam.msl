@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBExamModelStoreContainer" CdmEntityContainer="DBExamEntities">
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="DBExamModel.Transaction">
+        <MappingFragment StoreEntitySet="Transactions">
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Reference_Number" ColumnName="Reference_Number" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Transaction_Date" ColumnName="Transaction_Date" />
+          <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+          <ScalarProperty Name="Order_Side" ColumnName="Order_Side" />
+          <ScalarProperty Name="Order_Status" ColumnName="Order_Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
